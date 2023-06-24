@@ -32,7 +32,7 @@ I love turning that GitHub contribution graph ⬇️ more green 🟩 in my <del>
 const Hyp3Boy = {
    pronouns: "he" | "him",
    code: ["HTML", "JS", "CSS", "C/C++", "PYTHON"],
-   askMeAbout: ["Web Development", "Cycling", "Discord", "IoT"],
+   askMeAbout: ["Web Development", "Valorant", "Discord", "IA"],
    technologies: {
        frontEnd: {
            js: ["React.js", "Next.js"]
