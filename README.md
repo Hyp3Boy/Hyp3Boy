@@ -5,12 +5,12 @@ I love turning that GitHub contribution graph ⬇️ more green 🟩 in my <del>
 </p>-->
 
 <br/>
- <p align="center">
+ <!--<p align="center">
   <a href="#"> <img src="assets/2.gif"><a/>
   <a href="#"><img src="assets/8.gif"><a/>
   <a href="#"><img src="assets/0.gif"><a/>
   <a href="#"><img src="assets/6.gif"><a/>
-</p>
+</p>-->
 	  
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
