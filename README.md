@@ -7,7 +7,7 @@
 
 ☞ 〔 🐵 〕  <a href="https://utec.edu.pe/">![UTEC](https://img.shields.io/badge/Student-%40UTEC-blue)</a>
 
-☞ 〔 🐼 〕CS student who likes web dev
+☞ 〔 🐼 〕CS student who likes python
 
 ☞ 〔 🎉 〕18
 
